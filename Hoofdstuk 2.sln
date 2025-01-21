@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemiddelde", "Gemiddelde\Gemiddelde.csproj", "{34B7ADBD-4054-4806-85FB-ECC526390A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euro naar dollar", "Euro naar dollar\Euro naar dollar.csproj", "{6363A294-17D0-4817-B119-98C592ECD146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kill-Death-ratio", "Kill-Death-ratio\Kill-Death-ratio.csproj", "{2789739C-B63B-4126-8A93-4C4910B6EA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTW", "BTW\BTW.csproj", "{1F804A56-307D-4F05-9B1F-92099E856204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gewicht in space", "Gewicht in space\Gewicht in space.csproj", "{93B900F8-4F11-4237-840F-751AB57AD5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tafel", "Tafel\Tafel.csproj", "{20E99FEE-D198-4976-826F-B61A1145E907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple maths", "Simple maths\Simple maths.csproj", "{0AB465E9-1B1D-47B8-BFFC-3082DDA25871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B7ADBD-4054-4806-85FB-ECC526390A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B7ADBD-4054-4806-85FB-ECC526390A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B7ADBD-4054-4806-85FB-ECC526390A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B7ADBD-4054-4806-85FB-ECC526390A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6363A294-17D0-4817-B119-98C592ECD146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6363A294-17D0-4817-B119-98C592ECD146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6363A294-17D0-4817-B119-98C592ECD146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6363A294-17D0-4817-B119-98C592ECD146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2789739C-B63B-4126-8A93-4C4910B6EA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2789739C-B63B-4126-8A93-4C4910B6EA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2789739C-B63B-4126-8A93-4C4910B6EA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2789739C-B63B-4126-8A93-4C4910B6EA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F804A56-307D-4F05-9B1F-92099E856204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F804A56-307D-4F05-9B1F-92099E856204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F804A56-307D-4F05-9B1F-92099E856204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F804A56-307D-4F05-9B1F-92099E856204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B900F8-4F11-4237-840F-751AB57AD5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B900F8-4F11-4237-840F-751AB57AD5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B900F8-4F11-4237-840F-751AB57AD5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B900F8-4F11-4237-840F-751AB57AD5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E99FEE-D198-4976-826F-B61A1145E907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E99FEE-D198-4976-826F-B61A1145E907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E99FEE-D198-4976-826F-B61A1145E907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E99FEE-D198-4976-826F-B61A1145E907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB465E9-1B1D-47B8-BFFC-3082DDA25871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB465E9-1B1D-47B8-BFFC-3082DDA25871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB465E9-1B1D-47B8-BFFC-3082DDA25871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB465E9-1B1D-47B8-BFFC-3082DDA25871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
